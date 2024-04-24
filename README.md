@@ -1,6 +1,6 @@
 # Gym Fitness Project Using React, Redux and Tailwind 
 
-This project is based on the Gym Fitness using React, Redux and Tailwind.
+This project is based on the Gym Fitness using React, Redux, GraphQL and Tailwind.
 
 
 ## Run Command
